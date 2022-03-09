@@ -4,13 +4,27 @@
   <a href="https://github.com/igortomas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igortomas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
+  
+  ## Tecnologias que estou estudando atualmente 💻
+ 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Igor-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"">
+  <img align="center" alt="Igor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/87492560/157344608-71c1e5a5-5fa1-4438-941e-685c79de1396.gif">
+</div>
+
+## Tecnologias que tenho conhecimento e experiencia 💻
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"">
   <img align="center" alt="Igor-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/87492560/157344608-71c1e5a5-5fa1-4438-941e-685c79de1396.gif">
+  <img align="center" alt="Igor-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
   
   ##
