@@ -1,5 +1,5 @@
 
-## Olá? Quem bom ver voce aqui, eu me chamo Igor, sou desenvolvedor de Sistema!
+## Olá? Quem bom ver voce aqui! Eu me chamo Igor, sou desenvolvedor de Sistema!
 <div align="center">
   <a href="https://github.com/igortomas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igortomas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
