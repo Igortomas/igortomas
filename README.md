@@ -13,6 +13,8 @@
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Igor-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Igor-ScriptCase" height="30" width="40" src="https://www.imagemhost.com.br/images/2022/08/10/icon-scriptcase.png">
 <img align="right" alt="Igor-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/87492560/157344608-71c1e5a5-5fa1-4438-941e-685c79de1396.gif">
 </div>
 
