@@ -2,7 +2,7 @@
 ## Olá? Quem bom ver voce aqui! Eu me chamo Igor, sou desenvolvedor de Sistema!
 <div align="center">
   <a href="https://github.com/igortomas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igortomas"/>
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=igortomas](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)"/>
 </div>
   
   ## Tecnologias que estou estudando atualmente 💻
